@@ -1,0 +1,5 @@
+# Testi: kaasu ja käännökset
+0.00 press up           # Kaasu heti
+1.00-2.00 steer -8500    # Käänny vasemmalle 1–2 s
+2.00-3.00 steer 8500     # Käänny oikealle 2–3 s
+3.00 rel up             # Vapauta kaasu 3 s kohdalla

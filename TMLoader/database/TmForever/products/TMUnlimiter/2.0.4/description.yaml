@@ -1,0 +1,14 @@
+executable: TMUnlimiter.dll
+dependencies:
+  - id: CoreMod
+    version: ^1.0.5
+changelog: |-
+  - Fixed opAssign between readable/writable streams in AngelScript.
+  - Fixed incorrect behaviour when placing ground-only blocks in the air within a column that has a terrain modifier.
+  - Scale and offset is no longer applied on clouds.
+  - Fixed game crash while loading maps made in TMUnlimiter 2.0.0, 2.0.1 and 2.0.2 that used specific AngelScript features.
+  - Fixed game crash when server kicked you from the server while downloading a map.
+  - Fixed TrackManiaLocalPlayer::setRespawnLocPosition function setting spawnLoc instead of respawnLoc.
+  - Fixed game crash when colliding with rejoined players on a map with enabled vehicle collisions.
+  - Fixed drawing not suitable road blocks outside of the building area using space.
+  - Fixed glitch incorrectly rendering skidmarks after certain point in TMUnlimiter 2.0 maps.

@@ -1,0 +1,10 @@
+executable: CoreMod.dll
+priority: 2000000000
+dependencies:
+  - id: TmForever
+changelog: |-
+  - Add GamePad Plug&Play support
+  - Fix lag when playing for a long time (aka "memory leak")
+  - Fix unintended mouse inputs when using Alt+Tab
+  - Fix TMX Play Track Feature in fullscreen
+  - Fix the car driving on its own

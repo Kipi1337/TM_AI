@@ -1,0 +1,10 @@
+executable: CoreMod.dll
+priority: 2000000000
+dependencies:
+  - id: TmForever
+changelog: |-
+  - Broken shadows, use newer version
+  - Fix inputs registering in fullscreen
+  - Fix freewheeling text not showing up
+  - Fix wrong terrain bug
+  - Fix issues with plugging in mouse

@@ -1,0 +1,17 @@
+kuinka voi simuloida AI:n pelaamaan trackmaniaa tuhansia kertoja,
+ilman että tarvitsee katsella jokaista runia ja pienellä suorituskyvyllä.
+
+meidän täytyy tehdä trackmaniasta "päätön/grafiikaton" versio,
+joka pyörii taustalla ja (toivottavasti) nopeammin kuin peli itsessään.
+Tämä saadaan aikaiseksi kun käytetään TMInterfacea ja TMNF Modloaderiateh,
+siihen kuljettajaksi AI-agentti
+
+[ OMA SIMULAATTORI ]  <-- AI oppii täällä
+        |
+        v
+[ KÄYTÄ TMNF:ää VAIN ]
+- reitin validointiin
+- replay.gbx:n tekoon
+- hienosäätöön
+
+mikä teknologia voisi olla hyödyllinen ja helppo, jota voi jatko jalostaa

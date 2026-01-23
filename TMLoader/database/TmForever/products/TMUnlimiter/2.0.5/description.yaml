@@ -1,0 +1,5 @@
+executable: TMUnlimiter.dll
+dependencies:
+  - id: CoreMod
+    version: ^1.0.5
+changelog: '- Fixed challenge not being able to validate in certain scenarios.'

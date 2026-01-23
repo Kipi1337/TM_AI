@@ -1,0 +1,11 @@
+it goes as follows
+how can we make the AI make a heatmap out of the map for practicing walls
+and make it so it can be observed through some sort of picture/visual
+
+make AI study the information to use in a practical race/application
+and have it "eraseable" or moveable so we can start from scratch for another map
+
+can we read memory or do I need to map out checkpoints for the AI
+
+give it some sort of better reward for going fast and finishing
+maybe pseudo checkpoint lines on the race for quidance and faster learning

@@ -1,0 +1,11 @@
+simulaattori
+  └── input.csv   <-- per-frame ohjaukset
+           |
+           v
+TMInterface Lua script
+           |
+           v
+TrackMania Nations Forever
+           |
+           v
+Replay.gbx (oikea, validi)

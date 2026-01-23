@@ -1,0 +1,7 @@
+executable: CoreMod.dll
+priority: 2000000000
+dependencies:
+  - id: TmForever
+changelog: |-
+  - Fix freezone:servers and maniapub manialinks
+  - Fix unintentional mouse clicks on mouse move

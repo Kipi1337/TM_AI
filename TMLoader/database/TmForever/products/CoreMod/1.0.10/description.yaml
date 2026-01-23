@@ -1,0 +1,7 @@
+executable: CoreMod.dll
+priority: 2000000000
+dependencies:
+  - id: TmForever
+changelog: |-
+  - Save inputs in unfinished replays
+  - Reuse HTTPS connections

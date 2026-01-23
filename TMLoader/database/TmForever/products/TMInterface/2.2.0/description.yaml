@@ -1,0 +1,8 @@
+executable: TMInterface.dll
+dependencies:
+  - id: CoreMod
+    version: ^1.0.1
+changelog: |-
+  This release adds a new recent replay list, new plugin APIs and fixes many outstanding bugs.
+  
+  Full changelog on the homepage.

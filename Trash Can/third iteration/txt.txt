@@ -1,0 +1,10 @@
+ensimmäisenä tarvitaan scripti jolla otetaan auton ja kisan tiedot pihalle, tämä on parempi lähestymistapa kun aiemmat.
+ensimmäisessä ja toisessa iteraatiossa saatiin ai ohjaamaan autoa ilman dataa mutta nyt tarvitaan dataa että saadaan älyä
+
+
+
+
+A01 - Race
+1st checpoint Position → X: 972.00, Y: 24.01, Z: 305.70
+2st checpoint Position → X: 497.27, Y: 83.41, Z: 176.84
+finish line Position → X: 22.19, Y: 113.36, Z: 177.72
