@@ -1,0 +1,14 @@
+what went well?
+ - Everything I set out to do got done (find a way to extract data from the game and develope an AI to drive it)
+ - Managed to do it in the time constraint which I set myself
+ - Survived shortcomings (cheat engine memory reading not being permanent, bugs in the hud reading, not knowing half of the things I wanted)
+ - Had fun and frustration while doing it
+ - Ready for future improvement
+
+What went not so well?
+ - Planning phase was nonexistent which lead to many problems
+ - Research was difficult without the basic grasp of things
+ - Didn't get DLL hook to work
+ - The further the project went I had to rely more and more on AI due to time constraints
+ - The AI has yet to finish A01-Race
+ - AI is still dumb (needs more training)
