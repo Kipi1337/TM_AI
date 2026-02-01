@@ -14,3 +14,7 @@ while developing this project
 
 This madness started on 8.1.2026 and I do not plan on quitting yet
 TBC...
+
+After a great amount of testing on 31.1.2026, I got the AI to work. Trash can contains many iterations made by me and my colleaque chatgpt
+Now it needs some tweaks to get effective training but the question is "If I give it too much data, am I influencing the learning process too much?"
+If I manage to get it to finish a race in a reasonable amount of time, I shall make a video about the replay

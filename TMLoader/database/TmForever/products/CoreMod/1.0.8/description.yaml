@@ -1,7 +1,0 @@
-executable: CoreMod.dll
-priority: 2000000000
-dependencies:
-  - id: TmForever
-changelog: |-
-  - Fix crashes on d3dx9 shader compilation
-  - Partially fix launching maps from explorer

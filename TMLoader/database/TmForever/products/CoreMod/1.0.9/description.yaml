@@ -1,5 +1,0 @@
-executable: CoreMod.dll
-priority: 2000000000
-dependencies:
-  - id: TmForever
-changelog: '- Add missing dlls'

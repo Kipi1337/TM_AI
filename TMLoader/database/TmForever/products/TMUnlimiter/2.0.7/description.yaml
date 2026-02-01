@@ -1,8 +1,0 @@
-executable: TMUnlimiter.dll
-dependencies:
-  - id: CoreMod
-    version: ^1.0.7
-changelog: |-
-  - Fixed a game crash that occurred when manipulating terrain with the ground block.
-  - Fixed a game crash that occurred when placing block connectors.
-  - Fixed a game crash that occurred when the `validatepath` command-line option was used.
