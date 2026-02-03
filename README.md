@@ -7,13 +7,10 @@ There is a lot of readme files in the project folder and trash can.
 
 
 ## Installation
-Use TMinterface, use the console command toggle_info and output_values.py to see if the hud reader is correctly set up for your spesific setup
+Use TMinterface, use the console command toggle_info and output_values.py in hud_debug to see if the hud reader is correctly set up for your spesific setup
 
 ## Usage
 To use AI to teach to drive in Trackmania
-
-## Support
-Probably not needed.
 
 ## Roadmap
 first get a consistent and easy way to read car position, velocity and turning values.
